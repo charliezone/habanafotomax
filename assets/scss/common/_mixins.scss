@@ -15,3 +15,21 @@
 		@content;
 	}
 }
+
+@mixin cta-button($color: $banner-background, $bgc: $white){
+	width: 200px;
+	color: $color;
+	padding: 10px 0;
+	font-size: 20px;
+	font-weight: 400;
+	border-radius: 25px;
+	font-family: $font-1;
+	text-decoration: none;
+	background-color: $bgc;
+	text-transform: uppercase;
+	box-shadow: 2px 2px 2px $shadow;
+
+	&:hover{
+		text-decoration: none;
+	}
+}

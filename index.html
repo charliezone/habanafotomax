@@ -7,24 +7,43 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./assets/app.css">
 
     <title>Habana FotoMax - Bienvenido</title>
   </head>
   <body>
-    <header>
-        <div class="container-fluid">
+    <header class="header d-flex align-items-center">
+        <div class="container">
             <div class="row">
-                <div class="col"><a href="#">Habana <span>FotoMax</span></a></div>
-                <div class="col"></div>
+                <div class="col d-flex justify-content-between align-items-center">
+                  <a class="logo-text" href="#">Habana <span>FotoMax</span></a>
+                  <div class="socials-icons">
+                    <a class="me-2" href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a class="me-2" href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-whatsapp"></i></a>
+                  </div>
+                </div>
             </div>
         </div>
     </header>
 
-    <section class="banner">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md"></div>
-                <div class="col-md"></div>
+    <section class="banner no-webp webp">
+        <div class="container h-100">
+            <div class="row h-100">
+                <div class="col-md-8 offset-md-4 d-flex flex-column justify-content-center">
+                  <h1>Habana FotoMax</h1>
+                  <h2>Estudio Fotográfico en Cuba</h2>
+                  <p class="mt-3">Fotos para quinceañeras, bodas y niños.
+                  Tendencias modernas, nightshot, exteriores con transporte incluido, photobook, ampliaciones y productos accesorios. Precios competitivos. Creatividad e innovación.</p>
+                  <p>Mas de 15 años brindando un servicio de exelencia.
+                    Tu elección inteligente.</p>
+                  <div class="cta-buttons-wraper d-flex">
+                    <a href="#" class="cta-btn d-flex justify-content-center align-items-center me-3">echa un vistazo</a>
+                    <a href="#" class="cta-btn d-flex justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+                  </div>  
+                </div>
             </div>
         </div>
     </section>

@@ -1,0 +1,43 @@
+.banner{
+    height: calc(100vh - 60px);
+    background-color: $banner-background;
+
+    &.no-webp{
+        background: no-repeat left / contain url(./img/banner-img.png), $banner-background;
+    }
+
+    &.webp{
+        background: no-repeat left / contain url(./img/compress/banner-img.webp), $banner-background;
+    }
+
+    h1,
+    h2,
+    p{
+        color: $white;
+        font-family: $font-1;
+    }
+
+    h1{
+        font-size: 72px;
+        font-weight: 700;
+        line-height: 52px;
+    }
+
+    h2{
+        font-size: 35px;
+        font-weight: 500;
+    }
+
+    p{
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .cta-btn:nth-of-type(1){
+        @include cta-button();
+    }
+
+    .cta-btn:nth-of-type(2){
+        @include cta-button($white, $brick-red);
+    }
+}
