@@ -33,3 +33,10 @@
 		text-decoration: none;
 	}
 }
+
+@mixin section-subtitle(){
+	color: $black;
+	font-size: 30px;
+	font-weight: 100;
+	font-family: $font-1;
+}
