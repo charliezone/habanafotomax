@@ -1,0 +1,79 @@
+.home .banner{
+    height: calc(100vh - 60px);
+    background-color: $banner-background;
+
+    &.no-webp{
+        background: no-repeat 0% 100% / contain url(./img/banner-img.png), $banner-background;
+
+        @include media-max($large){
+            background: no-repeat bottom / contain url(./img/banner-img-movil.png), $banner-background;
+        }
+    }
+
+    &.webp{
+        background: no-repeat 0% 100% / contain url(./img/compress/banner-img.webp), $banner-background;
+
+        @include media-max($large){
+            background: no-repeat bottom / contain url(./img/compress/banner-img-movil.webp), $banner-background;
+        }
+    }
+
+    h1,
+    h2,
+    p{
+        color: $white;
+        font-family: $font-1;
+    }
+
+    h1{
+        font-size: 72px;
+        font-weight: 700;
+        line-height: 52px;
+    }
+
+    h2{
+        font-size: 35px;
+        font-weight: 500;
+
+        @include media-max($large){
+            width: 150px;
+            font-size: 16px;
+        }
+
+        @include media-min-height(737px){
+            margin-top: 150px;
+        }
+    }
+
+    p{
+        font-size: 24px;
+        font-weight: 400;
+
+        @include media-max($large){
+            width: 150px;
+            font-size: 14px;
+            line-height: 16px;
+        }
+    }
+
+    .cta-btn:nth-of-type(1){
+        @include cta-button();
+
+        @include media-max($large){
+            width: 90px;
+            padding: 5px 0;
+            font-size: 8px;
+            margin-top: 10px;
+        }
+    }
+
+    .cta-btn:nth-of-type(2){
+        @include cta-button($white, $brick-red);
+
+        @include media-max($large){
+            font-size: 8px;
+            padding: 5px 0;
+            width: 90px;
+        }
+    }
+}

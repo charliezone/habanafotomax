@@ -1,0 +1,13 @@
+.home .for-men{
+    height: 600px;
+    background-color: $cupid;
+
+    .section-title,
+    .section-subtitle{
+        color: $black;
+    }
+
+    .cta-btn{
+        @include cta-button();
+    }
+}

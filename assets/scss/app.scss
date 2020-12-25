@@ -3,4 +3,22 @@
 
 @import './common/header.scss';
 
-@import './page/home.scss';
+/* General */
+.section-title{
+    @include section-title();
+}
+
+.section-subtitle{
+    @include section-subtitle();
+}
+
+/* Home */
+@import './page/home/section-banner.scss';
+@import './page/home/section-services.scss';
+@import './page/home/section-galery.scss';
+@import './page/home/section-video-promo.scss';
+@import './page/home/section-for-men.scss';
+@import './page/home/section-our-clients.scss';
+@import './page/home/section-map.scss';
+
+@import './common/footer.scss';

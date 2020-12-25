@@ -8,6 +8,10 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="crossorigin=""/>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" crossorigin=""></script>
 
     <link rel="stylesheet" href="./assets/app.css">
 
@@ -32,16 +36,16 @@
     <section class="banner no-webp webp">
         <div class="container h-100">
             <div class="row h-100">
-                <div class="col-md-8 offset-md-4 d-flex flex-column justify-content-center">
-                  <h1>Habana FotoMax</h1>
+                <div class="col-md-8 pt-3 pt-md-0 offset-md-4 d-flex flex-column justify-content-md-center align-items-end">
+                  <h1 class="d-none d-md-inline">Habana FotoMax</h1>
                   <h2>Estudio Fotográfico en Cuba</h2>
-                  <p class="mt-3">Fotos para quinceañeras, bodas y niños.
+                  <p class="mt-3 d-none d-md-inline">Fotos para quinceañeras, bodas y niños.
                   Tendencias modernas, nightshot, exteriores con transporte incluido, photobook, ampliaciones y productos accesorios. Precios competitivos. Creatividad e innovación.</p>
                   <p>Mas de 15 años brindando un servicio de exelencia.
                     Tu elección inteligente.</p>
-                  <div class="cta-buttons-wraper d-flex">
-                    <a href="#" class="cta-btn d-flex justify-content-center align-items-center me-3">echa un vistazo</a>
-                    <a href="#" class="cta-btn d-flex justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+                  <div class="cta-buttons-wraper d-flex flex-md-row flex-column">
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">echa un vistazo</a>
+                    <a href="#" class="cta-btn d-flex order-1 order-md-2 justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
                   </div>  
                 </div>
             </div>
@@ -51,10 +55,10 @@
     <section class="services py-5">
       <div class="container">
         <div class="row">
-          <h3 class="section-subtitle text-center">Especialidad de la casa</h3>
+          <h3 class="services-subtitle text-center">Especialidad de la casa</h3>
         </div>
         <div class="row">
-          <p class="text-center">Trabajamos para lograr un producto de calidad y una experiencia 
+          <p class="text-center d-none d-md-inline">Trabajamos para lograr un producto de calidad y una experiencia 
             personalizada. Siempre generando ideas y marcando
             la diferencia.</p>
         </div>
@@ -73,7 +77,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md">
+          <div class="col-md mt-4 mt-md-0">
             <div class="card shadow border-0 rounded-3">
               <div class="img-wraper">
                 <picture>
@@ -87,7 +91,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md">
+          <div class="col-md mt-4 mt-md-0">
             <div class="card shadow border-0 rounded-3">
               <div class="img-wraper">
                 <picture>
@@ -111,9 +115,125 @@
       </div>
     </section>
 
-    <!-- Optional JavaScript; choose one of the two! -->
+    <section class="galery">
+      <div class="container-fluid p-0">
+        <div class="galery-graper">
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-1.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-2.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-3.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-4.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-5.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-6.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-7.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-8.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-9.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-10.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-11.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-12.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-13.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-14.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-15.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-16.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-17.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-18.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-19.jpg" class="galery-item no-webp webp"></a>
+          <a data-fancybox="gallery-general" href="./assets/img/galery/general/images/full/galery-20.jpg" class="galery-item no-webp webp"></a>
+        </div>
+      </div>
+    </section>
 
+    <section class="video-promo d-flex align-items-center">
+      <div class="container">
+        <div class="row">
+          <div class="col pe-5">
+            <h3 class="section-title">La fotografía es nuestra pasión y el cliente nuestra razón de ser.</h3>
+              <h4 class="section-subtitle mt-2">Desea conocer más acerca de nuestros servicios, ofertas y productos.</h4>
+              <a href="#" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+          </div>
+          <div class="col d-flex align-items-center">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/HotUaLprP-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="for-men d-flex align-items-center">
+      <div class="container">
+        <div class="row">
+          <div class="col d-flex justify-content-center">
+            <picture>
+              <source type="image/webp" srcset="./assets/img/compress/men.webp">
+              <source type="image/jpeg" srcset="./assets/img/men.jpg">
+              <img class="img-fluid" src="./assets/img/men.jpg" alt="">
+            </picture>
+          </div>
+          <div class="col d-flex flex-column justify-content-center">
+              <h3 class="section-title">Porque ellos tienen derecho a tener hermosos recuerdos.</h3>
+              <h4 class="section-subtitle mt-2">Ofertas diseñadas especialmente para varones. Está de moda y llegó para quedarse. Nuestros hijos también cumplen quince años.</h4>
+              <a href="#" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="our-clients py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 order-2 order-md-2">
+            <div class="testimonial">
+              <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F904034006799160%3Fcomment_id%3D904070126795548&width=560&include_parent=false&appId=445541732563194&height=134" width="100%" height="134" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+              <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F855590161643545%3Fcomment_id%3D863282707540957&width=560&include_parent=false&appId=445541732563194&height=114" width="100%" height="114" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+              <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F855590161643545%3Fcomment_id%3D855831171619444&width=560&include_parent=false&appId=445541732563194&height=134" width="100%" height="134" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+              <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F859748724561022%3Fcomment_id%3D870436416825586&width=560&include_parent=false&appId=445541732563194&height=154" width="100%" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+          </div>
+          <div class="col-md-6 order-1 order-md-2">
+            <h3 class="section-title">Que dicen nuestros clientes</h3>
+            <h4 class="section-subtitle mt-2">Presencia en facebook siempre interactuando y activos en redes sociales. Tu opinión nos importa mucho.</h4>
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=445541732563194" width="100%" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            <div class="testimonial">
+              <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F863976404138254%3Fcomment_id%3D864055760796985&width=560&include_parent=false&appId=445541732563194&height=134" width="100%" height="134" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+              <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F863976404138254%3Fcomment_id%3D864475484088346&width=560&include_parent=false&appId=445541732563194&height=114" width="100%" height="114" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="map">
+      <div class="container-fluid p-0">
+        <div id="mapid"></div>
+      </div>
+    </section>
+
+    <footer class="footer d-flex align-items-center">
+      <div class="container">
+        <div class="row">
+          <div class="col"><span>Copyright © 2020</span></div>
+          <div class="col d-flex justify-content-end">
+            <div class="socials-icons">
+              <a class="me-2" href="#"><i class="fab fa-facebook-f"></i></a>
+              <a class="me-2" href="#"><i class="fab fa-youtube"></i></a>
+              <a href="#"><i class="fab fa-whatsapp"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <script src="./assets/app.js"></script>
   </body>
 </html>

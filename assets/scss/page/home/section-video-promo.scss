@@ -1,0 +1,7 @@
+.home .video-promo{
+    height: 580px;
+
+    .cta-btn:nth-of-type(1){
+        @include cta-button($white, $cupid);
+    }
+}
