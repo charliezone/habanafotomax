@@ -1,38 +1,5 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="crossorigin=""/>
-
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" crossorigin=""></script>
-
-    <link rel="stylesheet" href="./assets/app.css">
-
-    <title>Habana FotoMax - Bienvenido</title>
-  </head>
-  <body class="home">
-    <header class="header d-flex align-items-center">
-        <div class="container">
-            <div class="row">
-                <div class="col d-flex justify-content-between align-items-center">
-                  <a class="logo-text" href="#">Habana <span>FotoMax</span></a>
-                  <div class="socials-icons">
-                    <a class="me-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a class="me-2" href="#"><i class="fab fa-youtube"></i></a>
-                    <a href="#"><i class="fab fa-whatsapp"></i></a>
-                  </div>
-                </div>
-            </div>
-        </div>
-    </header>
-
+<?php $page = 'home' ?>
+<?php require_once 'header.php' ?>
     <section class="banner no-webp webp">
         <div class="container h-100">
             <div class="row h-100">
@@ -142,10 +109,10 @@
       </div>
     </section>
 
-    <section class="video-promo d-flex align-items-center">
+    <section class="video-promo d-flex align-items-center py-5 py-md-0">
       <div class="container">
         <div class="row">
-          <div class="col pe-5">
+          <div class="col pe-md-5 pe-0 mb-4 mb-md-0">
             <h3 class="section-title">La fotografía es nuestra pasión y el cliente nuestra razón de ser.</h3>
               <h4 class="section-subtitle mt-2">Desea conocer más acerca de nuestros servicios, ofertas y productos.</h4>
               <a href="#" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
@@ -157,18 +124,18 @@
       </div>
     </section>
 
-    <section class="for-men d-flex align-items-center">
+    <section class="for-men d-flex align-items-center py-5 py-md-0">
       <div class="container">
         <div class="row">
-          <div class="col d-flex justify-content-center">
+          <div class="col-md d-flex justify-content-center">
             <picture>
               <source type="image/webp" srcset="./assets/img/compress/men.webp">
               <source type="image/jpeg" srcset="./assets/img/men.jpg">
               <img class="img-fluid" src="./assets/img/men.jpg" alt="">
             </picture>
           </div>
-          <div class="col d-flex flex-column justify-content-center">
-              <h3 class="section-title">Porque ellos tienen derecho a tener hermosos recuerdos.</h3>
+          <div class="col-md d-flex flex-column justify-content-center">
+              <h3 class="section-title mt-3 mt-md-0">Porque ellos tienen derecho a tener hermosos recuerdos.</h3>
               <h4 class="section-subtitle mt-2">Ofertas diseñadas especialmente para varones. Está de moda y llegó para quedarse. Nuestros hijos también cumplen quince años.</h4>
               <a href="#" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
           </div>
@@ -213,27 +180,4 @@
         <div id="mapid"></div>
       </div>
     </section>
-
-    <footer class="footer d-flex align-items-center">
-      <div class="container">
-        <div class="row">
-          <div class="col"><span>Copyright © 2020</span></div>
-          <div class="col d-flex justify-content-end">
-            <div class="socials-icons">
-              <a class="me-2" href="#"><i class="fab fa-facebook-f"></i></a>
-              <a class="me-2" href="#"><i class="fab fa-youtube"></i></a>
-              <a href="#"><i class="fab fa-whatsapp"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-    <!-- Optional JavaScript; choose one of the two! -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-    <script src="./assets/app.js"></script>
-  </body>
-</html>
+<?php require_once 'footer.php' ?>

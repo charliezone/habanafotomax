@@ -24,6 +24,12 @@
   color: #BF344A;
   text-decoration: underline;
 }
+.header .nav-link {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+}
 .header .socials-icons a {
   color: #fff;
   font-size: 20px;
@@ -36,12 +42,22 @@
   font-weight: 100;
   font-family: "Roboto", sans-serif;
 }
+@media screen and (max-width: 992px) {
+  .section-title {
+    font-size: 28px;
+  }
+}
 
 .section-subtitle {
   color: #8d8c9c;
   font-size: 24px;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
+}
+@media screen and (max-width: 992px) {
+  .section-subtitle {
+    font-size: 14px;
+  }
 }
 
 /* Home */
@@ -120,6 +136,13 @@
 }
 @media screen and (max-width: 992px) {
   .home .banner .cta-btn:nth-of-type(1) {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .home .banner .cta-btn:nth-of-type(1) {
     width: 90px;
     padding: 5px 0;
     font-size: 8px;
@@ -141,6 +164,13 @@
 }
 .home .banner .cta-btn:nth-of-type(2):hover {
   text-decoration: none;
+}
+@media screen and (max-width: 992px) {
+  .home .banner .cta-btn:nth-of-type(2) {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
 }
 @media screen and (max-width: 992px) {
   .home .banner .cta-btn:nth-of-type(2) {
@@ -206,6 +236,13 @@
 }
 .home .services .cta-btn:hover {
   text-decoration: none;
+}
+@media screen and (max-width: 992px) {
+  .home .services .cta-btn {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
 }
 
 .home .galery {
@@ -454,6 +491,16 @@
 .home .video-promo {
   height: 580px;
 }
+@media screen and (max-width: 992px) {
+  .home .video-promo {
+    height: auto;
+  }
+}
+@media screen and (max-width: 992px) {
+  .home .video-promo iframe {
+    height: 190px;
+  }
+}
 .home .video-promo .cta-btn:nth-of-type(1) {
   width: 200px;
   color: #fff;
@@ -470,10 +517,22 @@
 .home .video-promo .cta-btn:nth-of-type(1):hover {
   text-decoration: none;
 }
+@media screen and (max-width: 992px) {
+  .home .video-promo .cta-btn:nth-of-type(1) {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
+}
 
 .home .for-men {
   height: 600px;
   background-color: #F9BCC6;
+}
+@media screen and (max-width: 992px) {
+  .home .for-men {
+    height: auto;
+  }
 }
 .home .for-men .section-title,
 .home .for-men .section-subtitle {
@@ -495,6 +554,13 @@
 .home .for-men .cta-btn:hover {
   text-decoration: none;
 }
+@media screen and (max-width: 992px) {
+  .home .for-men .cta-btn {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
+}
 
 .home .our-clients .section-title,
 .home .our-clients .section-subtitle {
@@ -506,6 +572,35 @@
 
 .home .map #mapid {
   height: 500px;
+}
+@media screen and (max-width: 992px) {
+  .home .map #mapid {
+    height: 300px;
+  }
+}
+
+/* Quinces */
+.quinces .banner {
+  background-color: #8d8c9c;
+}
+.quinces .banner .section-title,
+.quinces .banner .section-subtitle {
+  color: #fff;
+}
+
+.quinces .info .info-img {
+  width: 70%;
+}
+.quinces .info .info-list {
+  padding-left: 0;
+}
+.quinces .info .info-list .item {
+  font-size: 15px;
+  margin-top: 5px;
+  font-weight: 400;
+  list-style: circle;
+  font-family: "Roboto", sans-serif;
+  color: #8d8c9c;
 }
 
 .footer {
