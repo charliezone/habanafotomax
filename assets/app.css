@@ -603,6 +603,66 @@
   color: #8d8c9c;
 }
 
+.quinces .ofertas .cta-btn {
+  width: 200px;
+  color: #fff;
+  padding: 10px 0;
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 25px;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  background-color: #BF344A;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+  width: 120px;
+  font-size: 15px;
+}
+.quinces .ofertas .cta-btn:hover {
+  text-decoration: none;
+}
+@media screen and (max-width: 992px) {
+  .quinces .ofertas .cta-btn {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
+}
+.quinces .ofertas .cta-btn.info {
+  width: 200px;
+  color: #fff;
+  padding: 10px 0;
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 25px;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  background-color: #8d8c9c;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+  width: 120px;
+  font-size: 15px;
+}
+.quinces .ofertas .cta-btn.info:hover {
+  text-decoration: none;
+}
+@media screen and (max-width: 992px) {
+  .quinces .ofertas .cta-btn.info {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
+}
+
+.quinces .galery .galery-graper {
+  display: grid;
+  grid-row-gap: 5px;
+  grid-column-gap: 5px;
+  justify-content: center;
+  grid-template-rows: repeat(7, 250px);
+  grid-template-columns: repeat(4, 250px);
+}
+
 .footer {
   height: 60px;
   background-color: #8d8c9c;

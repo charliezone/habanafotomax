@@ -1,0 +1,13 @@
+.quinces .ofertas{
+    .cta-btn{
+        @include cta-button($white, $brick-red);
+        width: 120px;
+        font-size: 15px;
+
+        &.info{
+            @include cta-button($white, $banner-background);
+            width: 120px;
+            font-size: 15px;
+        }
+    }
+}
