@@ -59,25 +59,25 @@
             <div class="row mt-3">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos + ampliacion 16 x 24 pulagadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">5000 CUP (200 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
-            <div class="row mt-3">
+            <div class="row mt-md-3 mt-5">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">30 fotos + ampliacion 24 x 32 pulagadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">7000 CUP (280 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
-            <div class="row mt-3">
+            <div class="row mt-md-3 mt-5">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">40 fotos + ampliacion 24 x 39 pulagadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">10000 CUP (400 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
         </div>
@@ -91,25 +91,25 @@
             <div class="row mt-3">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook de 20 pag + 2 ampliaciones 16 x 24 + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">7000 CUP (280 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
-            <div class="row mt-3">
+            <div class="row mt-md-3 mt-5">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook de 30 pag + amp 16 x 24 + amp 24 x 32 + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">10000 CUP (400 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
-            <div class="row mt-3">
+            <div class="row mt-md-3 mt-5">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook de 40 pag + amp 24 x 32 + amp 24 x 39 + 24 rec + minibook</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">14000 CUP (560 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
         </div>
@@ -123,9 +123,9 @@
             <div class="row mt-3">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">24 fotos 10 x 12 + album + lona 24 x 32 + 24 rec + minibook</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price"> 8000 CUP (320 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
         </div>
@@ -139,9 +139,9 @@
             <div class="row mt-3">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">SUPERBOOK DE 36 PAGINAS + LONA 130 X 90 CM + LONA 24 X 32 + 24 REC + MINIBOOK + REVISTA 8X12 + 3 LLAVEROS + MULTIMEDIA DE FOTOS, MUSICA Y FRAGMENTOS DE VIDEO + COFRE + LAMPARA</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">20000 CUP (800 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
         </div>
@@ -155,9 +155,9 @@
             <div class="row mt-3">
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">16 PAGINAS + 16 RECUERDITOS + AMPLIACION 12X18</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">3750 CUP (150 USD)</span></div>
-                <div class="col-md-3 d-flex align-items-center justify-content-around">
-                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Más info</a>
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">Reservar</a>
+                <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
+                    <a href="#" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
         </div>
@@ -368,5 +368,37 @@
                 </div>
             </div>
         </div>
+    </section>
+
+    <section class="our-clients py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 order-2 order-md-2">
+            <div class="testimonial">
+            <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F874315436437684%3Fcomment_id%3D875441816325046&width=560&include_parent=false&appId=445541732563194&height=134" width="100%" height="134" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+            <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F863982260804335%3Fcomment_id%3D865646200637941&width=560&include_parent=false&appId=445541732563194&height=114" width="100%" height="114" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+            <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F851476558721572%3Fcomment_id%3D851529338716294&width=560&include_parent=false&appId=445541732563194&height=114" width="100%" height="114" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+            <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F851476558721572%3Fcomment_id%3D852487425287152&width=560&include_parent=false&appId=384148325918462&height=154" width="100%" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+          </div>
+          <div class="col-md-6 order-1 order-md-2">
+            <h3 class="section-title">Que dicen nuestros clientes</h3>
+            <h4 class="section-subtitle mt-2">Tantas personas no pueden estar equivocadas, compruebe que dicen nuestros clientes en nuestra <a href="https://www.facebook.com/HabanaFotoMax">pagina de Facebook</a> y se convencera.</h4>
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax&width=450&layout=standard&action=like&size=small&share=true&height=35&appId=445541732563194" width="100%" height="35" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            <div class="testimonial">
+            <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F819989428536952%3Fcomment_id%3D820389288496966&width=560&include_parent=false&appId=445541732563194&height=114" width="100%" height="114" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+            <div class="testimonial">
+            <iframe src="https://www.facebook.com/plugins/comment_embed.php?href=https%3A%2F%2Fwww.facebook.com%2FHabanaFotoMax%2Fposts%2F754046771797885%3Fcomment_id%3D754099195125976&width=560&include_parent=false&appId=445541732563194&height=134" width="100%" height="134" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 <?php require_once '../footer.php' ?>

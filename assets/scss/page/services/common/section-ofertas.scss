@@ -1,0 +1,26 @@
+.quinces .ofertas{
+    background-color: $banner-background;
+
+    .section-title,
+    .section-subtitle,
+    p,
+    .price{
+        color: $white;
+
+        @include media-max($large){
+            margin-left: auto;
+        }
+    }
+
+    .cta-btn{
+        @include cta-button($white, $brick-red);
+        width: 120px;
+        font-size: 15px;
+
+        &.info{
+            @include cta-button();
+            width: 120px;
+            font-size: 15px;
+        }
+    }
+}

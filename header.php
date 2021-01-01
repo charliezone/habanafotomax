@@ -22,21 +22,21 @@
     <header class="header">
       <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container">
-          <a class="navbar-brand logo-text" href="#">Habana <span>FotoMax</span></a>
+          <a class="navbar-brand logo-text" href="<?php echo $base_url ?>">Habana <span>FotoMax</span></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse ps-0 ps-md-5" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
+                <a class="nav-link active" aria-current="page" href="<?php echo $base_url ?>">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle d-flex align-items-center" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Servicios
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="#">Quinces</a></li>
+                  <li><a class="dropdown-item" href="<?php echo $base_url ?>servicios/quinces.php">Quinces</a></li>
                   <li><a class="dropdown-item" href="#">Bodas</a></li>
                   <li><a class="dropdown-item" href="#">Niños</a></li>
                 </ul>
