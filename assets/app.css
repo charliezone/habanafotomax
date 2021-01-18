@@ -216,7 +216,29 @@
   }
 }
 .home .services .card .card-body a {
-  color: #E98F9D;
+  width: 200px;
+  color: #fff;
+  padding: 10px 0;
+  font-size: 20px;
+  font-weight: 400;
+  border-radius: 25px;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  background-color: #BF344A;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+  width: 80px;
+  font-size: 10px;
+}
+.home .services .card .card-body a:hover {
+  text-decoration: none;
+}
+@media screen and (max-width: 992px) {
+  .home .services .card .card-body a {
+    width: 110px;
+    padding: 5px 0;
+    font-size: 10px;
+  }
 }
 .home .services .card .card-title {
   color: #000;
@@ -229,29 +251,6 @@
   font-size: 30px;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
-}
-.home .services .cta-btn {
-  width: 200px;
-  color: #8d8c9c;
-  padding: 10px 0;
-  font-size: 20px;
-  font-weight: 400;
-  border-radius: 25px;
-  font-family: "Roboto", sans-serif;
-  text-decoration: none;
-  background-color: #fff;
-  text-transform: uppercase;
-  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
-}
-.home .services .cta-btn:hover {
-  text-decoration: none;
-}
-@media screen and (max-width: 992px) {
-  .home .services .cta-btn {
-    width: 110px;
-    padding: 5px 0;
-    font-size: 10px;
-  }
 }
 
 .home .galery {

@@ -39,8 +39,9 @@
                   <img class="img-fluid w-100" src="./assets/img/quinces.jpg" alt="">
                 </picture>
               </div>
-              <div class="card-body">
-                <a href="<?php echo $base_url ?>servicios/quinces.php"><h5 class="card-title text-center">Quinces</h5></a>
+              <div class="card-body d-flex flex-column align-items-center">
+                <h5 class="card-title text-center">Quinces</h5>
+                <a href="<?php echo $base_url ?>servicios/quinces.php" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center">Ver más</a>
               </div>
             </div>
           </div>
@@ -53,8 +54,9 @@
                   <img class="img-fluid w-100" src="./assets/img/bodas.jpg" alt="">
                 </picture>
               </div>
-              <div class="card-body">
-                <a href="<?php echo $base_url ?>servicios/bodas.php"><h5 class="card-title text-center">Bodas</h5></a>
+              <div class="card-body d-flex flex-column align-items-center">
+                <h5 class="card-title text-center">Bodas</h5>
+                <a href="<?php echo $base_url ?>servicios/bodas.php" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center">Ver más</a>
               </div>
             </div>
           </div>
@@ -67,8 +69,9 @@
                   <img class="img-fluid w-100" src="./assets/img/ninos.jpg" alt="">
                 </picture>
               </div>
-              <div class="card-body">
-                <a href="<?php echo $base_url ?>servicios/ninos.php"><h5 class="card-title text-center">Niños</h5></a>
+              <div class="card-body d-flex flex-column align-items-center">
+                <h5 class="card-title text-center">Niños</h5>
+                <a href="<?php echo $base_url ?>servicios/ninos.php" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center">Ver más</a>
               </div>
             </div>
           </div>

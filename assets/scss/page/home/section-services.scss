@@ -30,7 +30,9 @@
         }
 
         .card-body a{
-            color: $sea-pink;
+            @include cta-button($white, $brick-red);
+            width: 80px;
+            font-size: 10px;
         }
 
         .card-title{
@@ -46,9 +48,5 @@
         font-size: 30px;
         font-weight: 400;
         font-family: $font-1;
-    }
-
-    .cta-btn{
-        @include cta-button();
     }
 }

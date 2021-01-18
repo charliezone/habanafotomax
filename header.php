@@ -32,7 +32,7 @@
                 <a class="nav-link <?php if($page == 'home') echo 'active'?>" aria-current="page" href="<?php echo $base_url ?>">Home</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle d-flex align-items-center" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <a class="nav-link dropdown-toggle d-flex align-items-center <?php if(strpos($page, 'servicios') !== false) echo 'active'?>" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Servicios
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -42,7 +42,7 @@
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="<?php echo $base_url ?>quienes-somos.php">Quienes somos</a>
+                <a class="nav-link <?php if($page == 'quienes-somos') echo 'active'?>" href="<?php echo $base_url ?>quienes-somos.php">Quienes somos</a>
               </li>
             </ul>
             <div class="socials-icons">
