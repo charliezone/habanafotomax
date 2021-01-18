@@ -4,9 +4,9 @@
           <div class="col"><span>Copyright © 2020</span></div>
           <div class="col d-flex justify-content-end">
             <div class="socials-icons">
-              <a class="me-2" href="#"><i class="fab fa-facebook-f"></i></a>
-              <a class="me-2" href="#"><i class="fab fa-youtube"></i></a>
-              <a href="#"><i class="fab fa-whatsapp"></i></a>
+              <a target="_blank" class="me-2" href="https://www.facebook.com/HabanaFotoMax"><i class="fab fa-facebook-f"></i></a>
+              <a target="_blank" class="me-2" href="https://www.youtube.com/channel/UCXjj5kLO_V3l1BptMRjVlVw"><i class="fab fa-youtube"></i></a>
+              <a target="_blank" href="https://wa.link/y4vjh0"><i class="fab fa-whatsapp"></i></a>
             </div>
           </div>
         </div>

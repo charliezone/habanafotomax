@@ -29,7 +29,7 @@
           <div class="collapse navbar-collapse ps-0 ps-md-5" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="<?php echo $base_url ?>">Home</a>
+                <a class="nav-link <?php if($page == 'home') echo 'active'?>" aria-current="page" href="<?php echo $base_url ?>">Home</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle d-flex align-items-center" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -37,18 +37,18 @@
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <li><a class="dropdown-item" href="<?php echo $base_url ?>servicios/quinces.php">Quinces</a></li>
-                  <li><a class="dropdown-item" href="#">Bodas</a></li>
-                  <li><a class="dropdown-item" href="#">Niños</a></li>
+                  <li><a class="dropdown-item" href="<?php echo $base_url ?>servicios/bodas.php">Bodas</a></li>
+                  <li><a class="dropdown-item" href="<?php echo $base_url ?>servicios/ninos.php">Niños</a></li>
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Quienes somos</a>
+                <a class="nav-link" href="<?php echo $base_url ?>quienes-somos.php">Quienes somos</a>
               </li>
             </ul>
             <div class="socials-icons">
-              <a class="me-2" href="#"><i class="fab fa-facebook-f"></i></a>
-              <a class="me-2" href="#"><i class="fab fa-youtube"></i></a>
-              <a href="#"><i class="fab fa-whatsapp"></i></a>
+              <a target="_blank" class="me-2" href="https://www.facebook.com/HabanaFotoMax"><i class="fab fa-facebook-f"></i></a>
+              <a target="_blank" class="me-2" href="https://www.youtube.com/channel/UCXjj5kLO_V3l1BptMRjVlVw"><i class="fab fa-youtube"></i></a>
+              <a target="_blank" href="https://wa.link/y4vjh0"><i class="fab fa-whatsapp"></i></a>
             </div>
           </div>
         </div>

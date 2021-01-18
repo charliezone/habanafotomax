@@ -11,15 +11,15 @@
                   <p>Mas de 15 años brindando un servicio de exelencia.
                     Tu elección inteligente.</p>
                   <div class="cta-buttons-wraper d-flex flex-md-row flex-column">
-                    <a href="#" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">echa un vistazo</a>
-                    <a href="#" class="cta-btn d-flex order-1 order-md-2 justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+                    <a href="#services" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">echa un vistazo</a>
+                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn d-flex order-1 order-md-2 justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
                   </div>  
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="services py-5">
+    <section id="services" class="services py-5">
       <div class="container">
         <div class="row">
           <h3 class="services-subtitle text-center">Especialidad de la casa</h3>
@@ -40,7 +40,7 @@
                 </picture>
               </div>
               <div class="card-body">
-                <h5 class="card-title text-center">Quinces</h5>
+                <a href="<?php echo $base_url ?>servicios/quinces.php"><h5 class="card-title text-center">Quinces</h5></a>
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@
                 </picture>
               </div>
               <div class="card-body">
-                <h5 class="card-title text-center">Bodas</h5>
+                <a href="<?php echo $base_url ?>servicios/bodas.php"><h5 class="card-title text-center">Bodas</h5></a>
               </div>
             </div>
           </div>
@@ -68,16 +68,10 @@
                 </picture>
               </div>
               <div class="card-body">
-                <h5 class="card-title text-center">Niños</h5>
+                <a href="<?php echo $base_url ?>servicios/ninos.php"><h5 class="card-title text-center">Niños</h5></a>
               </div>
             </div>
           </div>
-        </div>
-        <div class="row">
-          <h4 class="text-center">Para conocer sobre ofertas y precios</h4>
-        </div>
-        <div class="row justify-content-center mt-3">
-          <a href="#" class="cta-btn d-flex justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
         </div>
       </div>
     </section>
@@ -115,7 +109,7 @@
           <div class="col pe-md-5 pe-0 mb-4 mb-md-0">
             <h3 class="section-title">La fotografía es nuestra pasión y el cliente nuestra razón de ser.</h3>
               <h4 class="section-subtitle mt-2">Desea conocer más acerca de nuestros servicios, ofertas y productos.</h4>
-              <a href="#" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+              <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
           </div>
           <div class="col d-flex align-items-center">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/HotUaLprP-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -137,7 +131,7 @@
           <div class="col-md d-flex flex-column justify-content-center">
               <h3 class="section-title mt-3 mt-md-0">Porque ellos tienen derecho a tener hermosos recuerdos.</h3>
               <h4 class="section-subtitle mt-2">Ofertas diseñadas especialmente para varones. Está de moda y llegó para quedarse. Nuestros hijos también cumplen quince años.</h4>
-              <a href="#" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+              <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
           </div>
         </div>
       </div>
