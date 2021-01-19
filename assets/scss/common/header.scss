@@ -1,0 +1,44 @@
+.header{
+    height: 60px;
+    background-color: $banner-background;
+
+    .navbar-collapse{
+        @include media-max($large){
+            padding-bottom: 15px;
+            background-color: $banner-background;
+        }
+    }
+
+    .logo-text{
+        color: $white;
+        font-size: 30px;
+        font-weight: 700;
+        font-family: $font-1;
+        text-decoration: none;
+
+        @include media-max($large){
+            font-size: 24px;
+        }
+
+        &:hover{
+            text-decoration: none;
+        }
+
+        span{
+            color: $brick-red;
+            text-decoration: underline;
+        }
+    }
+
+    .nav-link{
+        color: $white;
+        font-size: 20px;
+        font-weight: 400;
+        font-family: $font-1;
+    }
+
+    .socials-icons a{
+        color: $white;
+        font-size: 20px;
+    }
+}

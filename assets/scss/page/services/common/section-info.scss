@@ -1,0 +1,18 @@
+.quinces .info{
+    .info-img{
+        width: 70%;
+    }
+
+    .info-list{
+        padding-left: 0;
+
+        .item{
+            font-size: 15px;
+            margin-top: 5px;
+            font-weight: 400;
+            list-style: circle;
+            font-family: $font-1;
+            color: $banner-background;
+        }
+    }
+}

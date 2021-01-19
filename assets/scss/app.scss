@@ -1,0 +1,35 @@
+@import './common/variables';
+@import './common/mixins';
+
+@import './common/header.scss';
+
+/* General */
+.section-title{
+    @include section-title();
+}
+
+.section-subtitle{
+    @include section-subtitle();
+}
+
+/* Home */
+@import './page/home/section-banner.scss';
+@import './page/home/section-services.scss';
+@import './page/home/section-galery.scss';
+@import './page/home/section-video-promo.scss';
+@import './page/home/section-for-men.scss';
+@import './page/home/section-our-clients.scss';
+@import './page/home/section-map.scss';
+
+/* Quinces */
+@import './page/services/common/section-banner.scss';
+@import './page/services/common/section-info.scss';
+@import './page/services/common/section-ofertas.scss';
+@import './page/services/common/section-galery.scss';
+
+/* Quienes Somos */
+@import './page/quienes_somos/section-banner.scss';
+@import './page/quienes_somos/section-our-clients.scss';
+@import './page/quienes_somos/section-map.scss';
+
+@import './common/footer.scss';

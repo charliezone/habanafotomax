@@ -1,0 +1,9 @@
+.quienes-somos .map{
+    #mapid{
+        height: 500px;
+
+        @include media-max($large){
+            height: 300px;
+        }
+    }
+}

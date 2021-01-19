@@ -1,0 +1,17 @@
+.home .for-men{
+    height: 600px;
+    background-color: $cupid;
+
+    @include media-max($large){
+        height: auto;
+    }
+
+    .section-title,
+    .section-subtitle{
+        color: $black;
+    }
+
+    .cta-btn{
+        @include cta-button();
+    }
+}

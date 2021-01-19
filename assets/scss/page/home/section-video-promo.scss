@@ -1,0 +1,17 @@
+.home .video-promo{
+    height: 580px;
+
+    @include media-max($large){
+        height: auto;
+    }
+
+    iframe{
+        @include media-max($large){
+            height: 190px;
+        }
+    }
+
+    .cta-btn:nth-of-type(1){
+        @include cta-button($white, $cupid);
+    }
+}

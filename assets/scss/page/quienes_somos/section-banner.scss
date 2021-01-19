@@ -1,0 +1,33 @@
+.quienes-somos .banner{
+    height: calc(100vh - 60px);
+    background-color: $banner-background;
+
+    @include media-max($large){
+        height: auto;
+    }
+
+    h1,
+    p{
+        color: $white;
+        font-family: $font-1;
+    }
+
+    .cta-btn{
+        @include cta-button($white, $brick-red);
+        font-size: 15px;
+        width: 150px;
+
+        @include media-max($large){
+            width: 90px;
+            font-size: 8px;
+            padding: 5px 0;
+        }
+    }
+
+    iframe{
+        @include media-max($large){
+            width: 100%;
+            height: auto;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.footer{
+    height: 60px;
+    background-color: $banner-background;
+
+    span{
+        color: $white;
+        font-size: 18px;
+        font-weight: 100;
+        font-family: $font-1;
+    }
+
+    .socials-icons a{
+        color: $white;
+        font-size: 20px;
+    }
+}
