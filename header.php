@@ -1,4 +1,4 @@
-<?php $base_url = 'http://localhost/habanafotomax/' ?>
+<?php $base_url = 'https://habanafotomax.work/' ?>
 <!doctype html>
 <html lang="es">
   <head>
