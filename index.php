@@ -8,7 +8,7 @@
                   <h2>Estudio Fotográfico en Cuba</h2>
                   <p class="mt-3 d-none d-md-inline">Fotos para quinceañeras, bodas y niños.
                   Tendencias modernas, nightshot, exteriores con transporte incluido, photobook, ampliaciones y productos accesorios. Precios competitivos. Creatividad e innovación.</p>
-                  <p>Mas de 15 años brindando un servicio de exelencia.
+                  <p>Mas de 15 años brindando un servicio de excelencia.
                     Tu elección inteligente.</p>
                   <div class="cta-buttons-wraper d-flex flex-md-row flex-column">
                     <a href="#services" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">echa un vistazo</a>
