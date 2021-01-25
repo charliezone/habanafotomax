@@ -54,10 +54,10 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col"><h4 class="section-subtitle text-center">Ofertas 8 x 12 pulagadas con album personalizado</h4></div>
+                <div class="col"><h4 class="section-subtitle text-center">Ofertas 8 x 12 pulgadas con album personalizado</h4></div>
             </div>
             <div class="row mt-3">
-                <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos + ampliacion 16 x 24 pulagadas + 24 recuerditos</p></div>
+                <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos + ampliacion 16 x 24 pulgadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">5000 CUP (200 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
                     <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
@@ -65,7 +65,7 @@
                 </div>
             </div>
             <div class="row mt-md-3 mt-5">
-                <div class="col-md-6 d-flex align-items-center"><p class="mb-0">30 fotos + ampliacion 24 x 32 pulagadas + 24 recuerditos</p></div>
+                <div class="col-md-6 d-flex align-items-center"><p class="mb-0">30 fotos + ampliacion 24 x 32 pulgadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">7000 CUP (280 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
                     <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
@@ -73,7 +73,7 @@
                 </div>
             </div>
             <div class="row mt-md-3 mt-5">
-                <div class="col-md-6 d-flex align-items-center"><p class="mb-0">40 fotos + ampliacion 24 x 39 pulagadas + 24 recuerditos</p></div>
+                <div class="col-md-6 d-flex align-items-center"><p class="mb-0">40 fotos + ampliacion 24 x 39 pulgadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">10000 CUP (400 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
                     <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
