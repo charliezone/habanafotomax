@@ -2,6 +2,13 @@
 <!doctype html>
 <html lang="es">
   <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T9MFXKP');</script>
+    <!-- End Google Tag Manager -->
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,6 +26,10 @@
     <title>Habana FotoMax - Bienvenido</title>
   </head>
   <body class="<?php echo $page ?>">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9MFXKP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
     <header class="header">
       <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container">
@@ -48,7 +59,7 @@
             <div class="socials-icons">
               <a target="_blank" class="me-2" href="https://www.facebook.com/HabanaFotoMax"><i class="fab fa-facebook-f"></i></a>
               <a target="_blank" class="me-2" href="https://www.youtube.com/channel/UCXjj5kLO_V3l1BptMRjVlVw"><i class="fab fa-youtube"></i></a>
-              <a target="_blank" href="https://wa.link/y4vjh0"><i class="fab fa-whatsapp"></i></a>
+              <a href="https://wa.link/zcyw7m"><i class="fab fa-whatsapp"></i></a>
             </div>
           </div>
         </div>

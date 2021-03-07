@@ -56,7 +56,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">10 fotos 5x7 + 8 recuerditos + ampliación 8x12</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">600 CUP (24 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos 5x7 + 8 recuerditos + ampliación 10x12 + album personalizado</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">1500 CUP (60 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook 5x7 20 páginas con 16 recuerditos + ampliacion 12 x 18</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">2000 CUP (80 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -88,7 +88,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">10 fotos 6x8 + 8 recuerditos + ampliación 8x12</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">800 CUP (32 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -96,7 +96,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos 6x8 + 8 recuerditos + ampliación 10x12 + album personalizado</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">2000 CUP (80 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook 6x8 20 páginas + 16 recuerditos + ampliación 12 x 18</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">2500 CUP (100 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -120,7 +120,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">10 fotos 8x10 + 8 recuerditos + ampliación 10x12</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">1500 CUP (60 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -128,7 +128,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos 8x10 + 8 recuerditos + ampliación 10x15 + album personalizado</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">3500 CUP (140 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -136,7 +136,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook 8x10 20 paginas + 16 recuerditos + ampliacion 20 x 16</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">4500 CUP (180 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">10 fotos 8x12 + 8 recuerditos + ampliación 10x15</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">2000 CUP (80 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -160,7 +160,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos 8x12 + 8 recuerditos + ampliación 12x18 + album personalizado</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">4500 CUP (180 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -168,7 +168,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook 8x12 20 paginas + 16 recuerditos + ampliación 12 x 18</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">5500 CUP (220 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -184,7 +184,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">16 PAGINAS + 16 RECUERDITOS + AMPLIACION 12X18</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">3750 CUP (150 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>

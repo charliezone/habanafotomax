@@ -60,7 +60,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">20 fotos + ampliacion 16 x 24 pulgadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">5000 CUP (200 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -68,7 +68,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">30 fotos + ampliacion 24 x 32 pulgadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">7000 CUP (280 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -76,7 +76,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">40 fotos + ampliacion 24 x 39 pulgadas + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">10000 CUP (400 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -92,7 +92,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook de 20 pag + 2 ampliaciones 16 x 24 + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">7000 CUP (280 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -100,7 +100,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook de 30 pag + amp 16 x 24 + amp 24 x 32 + 24 recuerditos</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">10000 CUP (400 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -108,7 +108,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">Photobook de 40 pag + amp 24 x 32 + amp 24 x 39 + 24 rec + minibook</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">14000 CUP (560 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">24 fotos 10 x 12 + album + lona 24 x 32 + 24 rec + minibook</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price"> 8000 CUP (320 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -140,7 +140,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">SUPERBOOK DE 36 PAGINAS + LONA 130 X 90 CM + LONA 24 X 32 + 24 REC + MINIBOOK + REVISTA 8X12 + 3 LLAVEROS + MULTIMEDIA DE FOTOS, MUSICA Y FRAGMENTOS DE VIDEO + COFRE + LAMPARA</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">20000 CUP (800 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>
@@ -156,7 +156,7 @@
                 <div class="col-md-6 d-flex align-items-center"><p class="mb-0">16 PAGINAS + 16 RECUERDITOS + AMPLIACION 12X18</p></div>
                 <div class="col-md-3 d-flex align-items-center"><span class="price">3750 CUP (150 USD)</span></div>
                 <div class="col-md-3 d-flex align-items-center justify-content-md-around justify-content-end mt-3 mt-md-0">
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
+                    <a href="https://wa.link/uky3y4" class="cta-btn info d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-2">Más info</a>
                     <a target="_blank" href="https://wa.link/hxol7h" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-md-3 me-0">Reservar</a>
                 </div>
             </div>

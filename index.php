@@ -12,7 +12,7 @@
                     Tu elección inteligente.</p>
                   <div class="cta-buttons-wraper d-flex flex-md-row flex-column">
                     <a href="#services" class="cta-btn d-flex order-2 order-md-1 justify-content-center align-items-center me-3">echa un vistazo</a>
-                    <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn d-flex order-1 order-md-2 justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+                    <a href="https://wa.link/zcyw7m" class="cta-btn d-flex order-1 order-md-2 justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
                   </div>  
                 </div>
             </div>
@@ -112,7 +112,7 @@
           <div class="col pe-md-5 pe-0 mb-4 mb-md-0">
             <h3 class="section-title">La fotografía es nuestra pasión y el cliente nuestra razón de ser.</h3>
               <h4 class="section-subtitle mt-2">Desea conocer más acerca de nuestros servicios, ofertas y productos.</h4>
-              <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+              <a href="https://wa.link/zcyw7m" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
           </div>
           <div class="col d-flex align-items-center">
             <iframe width="560" height="315" src="https://www.youtube.com/embed/HotUaLprP-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -134,7 +134,7 @@
           <div class="col-md d-flex flex-column justify-content-center">
               <h3 class="section-title mt-3 mt-md-0">Porque ellos tienen derecho a tener hermosos recuerdos.</h3>
               <h4 class="section-subtitle mt-2">Ofertas diseñadas especialmente para varones. Está de moda y llegó para quedarse. Nuestros hijos también cumplen quince años.</h4>
-              <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+              <a href="https://wa.link/y4vjh0" class="cta-btn d-flex justify-content-center align-items-center mt-4"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
           </div>
         </div>
       </div>
