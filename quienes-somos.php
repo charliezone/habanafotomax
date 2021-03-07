@@ -8,7 +8,7 @@
                 <p><strong>Habana FotoMax</strong> es “Un espacio para las nuevas ideas” donde usted aporta y define el estilo que desea seguir, nos preocupamos por diseñar un esquema de trabajo que personalice y diferencie el resultado de sus fotos, dando la posibilidad de ser libre al decidir y fantasear en las propuestas fotográficas que desea realizar.</p>
                 <p>Nos proponemos satisfacer las demandas de nuestros clientes brindando variedad en nuestras ofertas, calidad en los servicios y una atención dedicada a sus necesidades. Somos un equipo de profesionales preparados para servirle.</p>
                 <p>Por eso somos <strong>TU ELECCIÓN INTELIGENTE</strong></p>
-                <a target="_blank" href="https://wa.link/y4vjh0" class="cta-btn d-flex order-1 order-md-2 justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
+                <a href="https://wa.link/zcyw7m" class="cta-btn d-flex order-1 order-md-2 justify-content-center align-items-center"><i class="fab fa-whatsapp me-2"></i> contactenos</a>
             </div>
             <div class="col-md order-1 order-md-2 d-block d-md-flex align-items-center">
                 <iframe width="540" height="310" src="https://www.youtube.com/embed/HotUaLprP-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
